@@ -11,7 +11,7 @@
 #define 	PA7 		23
 #define 	PB0 		26
 #define 	PB1			27
-
+#define 	changed 
 
 
 
